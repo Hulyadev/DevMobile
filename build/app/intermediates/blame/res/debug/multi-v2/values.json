@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/hulyaisik/Downloads/my-flutter-todo-list-main 3/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/hulyaisik/Downloads/hulya-main/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/Users/hulyaisik/Downloads/my-flutter-todo-list-main 3/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/hulyaisik/Downloads/hulya-main/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
