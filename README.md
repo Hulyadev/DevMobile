@@ -1,6 +1,6 @@
 # hulya_todolist
 
-liste de trucs à hulya
+Liste de tâche
 
 ## Getting Started
 
